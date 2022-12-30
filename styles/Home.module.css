@@ -28,6 +28,22 @@
   flex-grow: 1;
 }
 
+.maintitle a {
+  color: #bbea63;
+  text-decoration: none;
+}
+
+.maintitle {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+.maintitle,
+.description {
+  text-align: center;
+}
+
 .title a {
   color: #bbea63;
   text-decoration: none;
