@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.maintitle}>
-          Welcome to <a>Sarah.Hassan Portfolio</a>
+          Welcome to <a>Sarah.Hassan Profile</a>
         </h1>
 
         <p className={styles.description}>
@@ -28,8 +28,8 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://github.com/sarahhassan1" className={styles.card}>
-            <h2>Projects &rarr;</h2>
-            <p>Explore other projects I have worked on.</p>
+            <h2>Portfolio &rarr;</h2>
+            <p>Explore other projects I have worked on such as my portfolio.</p>
           </a>
 
           <a href="https://google.com" className={styles.card}>
@@ -37,8 +37,8 @@ export default function Home() {
             <p>Learn more about who I am and what I do!</p>
           </a>
 
-          <a href="https://google.com" className={styles.card}>
-            <h2>Profiles &rarr;</h2>
+          <a href="https://forms.gle/YyXQK13pLdDaP1dz9" className={styles.card}>
+            <h2>Poll &rarr;</h2>
             <p>
               Discover and vote for which profile suits me best by clicking
               here!
